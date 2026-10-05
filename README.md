@@ -1,1 +1,1 @@
-<b>This resp is for small and useless (Not in their educational value to me) scripts that I will make while learning asyncio. That beign said I made this resp for one idea in my mind and it might end up with only one script.</b>
+<b>This resp is for small and useless (Not in their educational value to me) scripts that I will make while learning asyncio. That being said I made this resp for one idea in my mind and it might end up with only one script.</b>
